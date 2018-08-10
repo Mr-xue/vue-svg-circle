@@ -10,6 +10,24 @@
     "start": "npm run dev",
     "build": "node build/build.js"
   },
+  // 指定代码所在的仓库地址
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mr-xue/vue-svg-circle.git"
+  },
+  // 指定打包之后，包中存在的文件夹
+  "files": [
+    "dist",
+    "src"
+  ],
+  // 指定关键字
+  "keywords": [
+    "vue",
+    "svg circle"
+  ],
+  "license": "MIT", //开源协议
+  // 项目官方md介绍
+  "homepage":"https://github.com/Mr-xue/vue-svg-circle/blob/master/README.md",
   "dependencies": {
     "vue": "^2.5.2"
   },

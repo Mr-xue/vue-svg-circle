@@ -1,4 +1,4 @@
-import circleComponent from './VueSvgCircle.vue'
+import circleComponent from './component/VueSvgCircle.vue'
 
 const VueSvgCircle = {
 	install:function(Vue){
