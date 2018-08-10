@@ -49,7 +49,7 @@ const webpackConfig = merge(baseWebpackConfig, {
         }),
         // extract css into its own file
         new ExtractTextPlugin({
-            filename: 'create-from.min.css'
+            filename: 'vue-svg-circle.min.css'
         }),
     ]
 })

@@ -1,10 +1,10 @@
 {
-  "name": "vue-svg-circle",
-  "version": "1.0.0",
+  "name": "vue-svg-circle2",
+  "version": "1.0.1",
   "description": "A vue component",
   "author": "Mr.Xue",
   "private": false,
-  "main":"dist/vue-svg-circle.js",
+  "main":"dist/vue-svg-circle.min.js",
   "directories": {
     "dist": "dist"
   },
