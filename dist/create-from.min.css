@@ -1,0 +1,21 @@
+
+.svg-circle-wrap {
+  position: relative;
+}
+.svg-circle-wrap .svg-circle {
+  -webkit-transform: rotate(-90deg);
+          transform: rotate(-90deg);
+}
+.svg-circle-wrap circle {
+  -webkit-transition: stroke-dasharray 1.25s;
+  transition: stroke-dasharray 1.25s;
+}
+.svg-circle-wrap .svg-num {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+/*# sourceMappingURL=create-from.min.css.map*/
